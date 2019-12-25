@@ -14,3 +14,11 @@ Server酱：http://sc.ftqq.com/  申请自己的KEY，绑定自己的微信
 需要运行在 python 3 以上版本
 
 
+**依赖库**
+
+requests
+
+time, datetime
+
+json
+
